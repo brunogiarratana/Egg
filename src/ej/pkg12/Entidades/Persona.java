@@ -15,6 +15,7 @@ public class Persona {
     private String nombre;
     private Date fechanac;
     private int edad;
+    private int atrib1;
 
     public Persona() {
     }
